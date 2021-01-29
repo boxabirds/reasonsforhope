@@ -1,6 +1,6 @@
 # Zero shot positive climate news classifier
 
-[Huggingface](http://huggingface.co) is the world's best natural language text processing technology (has a free API now)[https://api-inference.huggingface.co/docs/python/html/index.html] and one of them is a text categorisation engine that requires no training! This is called "zero shot learning" and it's pretty magical.
+[Huggingface](http://huggingface.co) is the world's best natural language text processing technology [has a free API now](https://api-inference.huggingface.co/docs/python/html/index.html) and one of them is a text categorisation engine that requires no training! This is called "zero shot learning" and it's pretty magical.
 
 It works because the repository it's using is a gargantuan one from Facebook called BART. [Learn more about Facebook's BART](https://huggingface.co/facebook/bart-large)
 
